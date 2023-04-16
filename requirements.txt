@@ -1,0 +1,4 @@
+manimgl
+scikit-learn
+numpy
+pandas
